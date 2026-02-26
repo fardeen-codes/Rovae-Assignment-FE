@@ -7,7 +7,7 @@ This project demonstrates component-based architecture, clean UI design, and sca
 
 ## Tech Stack
 
-- React (Functional Components + Hooks)
+- React
 - Vite
 - TypeScript
 - Tailwind CSS
@@ -40,4 +40,5 @@ npm run dev
 
 The application will be running at:
 http://localhost:8080
+
 
