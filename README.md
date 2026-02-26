@@ -5,7 +5,7 @@ This project demonstrates component-based architecture, clean UI design, and sca
 
 ---
 
-## 🚀 Tech Stack
+## Tech Stack
 
 - React (Functional Components + Hooks)
 - Vite
@@ -16,7 +16,7 @@ This project demonstrates component-based architecture, clean UI design, and sca
 
 ---
 
-## ✨ Features
+## Features
 
 - Product listing page
 - Reusable UI components
@@ -40,3 +40,4 @@ npm run dev
 
 The application will be running at:
 http://localhost:8080
+
